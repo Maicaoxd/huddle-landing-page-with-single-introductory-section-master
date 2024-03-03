@@ -31,15 +31,15 @@ Esta é uma solução para o [README](https://www.frontendmentor.io/challenges/h
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [Adicionar URL da solução aqui](https://github.com/Maicaoxd/huddle-landing-page-with-single-introductory-section-master)
+- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://maicaoxd.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Como clonar projeto
 
 1 - Clone o projeto na pasta que desejar
 
 ```
-git clone https://github.com/Maicaoxd/projeto-mario.git
+git clone https://github.com/Maicaoxd/huddle-landing-page-with-single-introductory-section-master.git
 ```
 
 2 - Acesse a pasta do projeto
