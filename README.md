@@ -31,8 +31,8 @@ Esta é uma solução para o [README](https://www.frontendmentor.io/challenges/h
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui](https://github.com/Maicaoxd/huddle-landing-page-with-single-introductory-section-master)
-- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://maicaoxd.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- URL da solução: [https://github.com/Maicaoxd/huddle-landing-page-with-single-introductory-section-master](https://github.com/Maicaoxd/huddle-landing-page-with-single-introductory-section-master)
+- URL do site ao vivo: [https://maicaoxd.github.io/huddle-landing-page-with-single-introductory-section-master/](https://maicaoxd.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Como clonar projeto
 
